@@ -125,7 +125,7 @@ export const designPortfolio = [
   },
   {
     id: 3,
-    title: "Design E-commerce Web Design",
+    title: "E-commerce Design",
     img:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
   },
